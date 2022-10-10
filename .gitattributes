@@ -1,1 +1,2 @@
-*.Dart linguist-detectable=true *.C++ linguist-detectable=false *.html linguist-detectable=false *.xml linguist-detectable=false
+# direct Dart
+*.* linguist-language=Dart
